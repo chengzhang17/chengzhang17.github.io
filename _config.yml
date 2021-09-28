@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chengzhang Li (李承璋)"
+title                    : "Chengzhang Li"
 title_separator          : "-"
 name                     : &name "Chengzhang Li"
 description              : &description "A PhD student at Virginia Tech"
