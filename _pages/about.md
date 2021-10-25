@@ -12,10 +12,10 @@ Hi, I'm Chengzhang Li, a fifth-year Ph.D. student in ECE Department at Virginia 
 
 News
 ======
-\[May. 2021\] One paper is accepted by ACM MobiHoc, 2021.
+\[May. 2021\] One paper was accepted by ACM MobiHoc, 2021.
 
 \[Mar. 2021\] I received Student Travel Grant from IEEE INFOCOM, 2021.
 
-\[Dec. 2020\] Two papers are accepted by IEEE INFOCOM, 2021.
+\[Dec. 2020\] Two papers were accepted by IEEE INFOCOM, 2021.
 
 \[Dec. 2020\] I received my MS degree in Computer Engineering from Virginia Tech.
