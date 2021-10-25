@@ -6,7 +6,9 @@ permalink: /publications/
 ---
 Journal
 ======
-11
+[ToN21] Shaoran Li, Yan Huang, Chengzhang Li, Brian A Jalaian, Y Thomas Hou, Wenjing Lou,
+and Stephen Russell, _“Maximize Spectrum Efficiency in Underlay Coexistence With Channel
+Uncertainty,"_ IEEE/ACM Transactions on Networking, 2021.
 
 Conference
 ======
