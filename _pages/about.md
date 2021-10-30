@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Chengzhang Li, a fifth-year Ph.D. student in ECE Department at Virginia Tech, supervised by Prof. [Tom Hou](https://www.cnsr.ictas.vt.edu/THou.html). I received my B.S. degree in EE from Tsinghua University in 2017. My current research interests are optimization for wireless network, real-time scheduling in 5G, and Age of Information (AoI). My email address is licz17@vt.edu.
+I’m a Ph.D. student in the Electrical and Computer Engineering Department at Virginia Tech, supervised by Prof. Tom Hou. I received my B.S. degree in Electronic Engineering from Tsinghua University in 2017, and my M.S degree in Computer Engineering from Virginia Tech in 2020. My current research interests are optimization for low-latency wireless network, real-time scheduling in 5G, and Age of Information (AoI). My email address is licz17@vt.edu.
 
 News
 ======
