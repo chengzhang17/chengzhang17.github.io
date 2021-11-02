@@ -5,9 +5,7 @@ permalink: /publications/
 #author_profile: true
 ---
 
-[ToN'21] Shaoran Li, Yan Huang, **Chengzhang Li**, Brian A Jalaian, Y Thomas Hou, Wenjing Lou,
-and Stephen Russell, _“Maximize Spectrum Efficiency in Underlay Coexistence With Channel
-Uncertainty,"_ IEEE/ACM Transactions on Networking, 2021.
+[TMC'21] Shaoran Li, Yan Huang, **Chengzhang Li**, Thomas Hou, Wenjing Lou, Brian Jalaian, and Stephen Russell, _“Achieving Real-Time Spectrum Sharing in 5G Underlay Coexistence with ChannelUncertainty",_ IEEE Transactions on Mobile Computing
 
 [IoTJ'21] **Chengzhang Li**, Yan Huang, Shaoran Li, Yongce Chen, Brian A. Jalaian, Y. Thomas Hou,
 Wenjing Lou, Jeffrey H. Reed, and Sastry Kompella, _“Minimizing AoI in a 5G-based IoT Network
@@ -15,6 +13,10 @@ under Varying Channel Conditions",_ IEEE Internet of Things Journal, 2021.
 
 [IoTJ'21] Darshan A. Ravi, Vijay K. Shah, **Chengzhang Li**, Y. Thomas Hou and Jeffrey H. Reed, 
 _“RAN Slicing in Multi-MVNO Environment under Dynamic Channel Conditions",_ IEEE Internet of Things Journal, 2021
+
+[ToN'21] Shaoran Li, Yan Huang, **Chengzhang Li**, Brian A Jalaian, Y Thomas Hou, Wenjing Lou,
+and Stephen Russell, _“Maximize Spectrum Efficiency in Underlay Coexistence With Channel
+Uncertainty,"_ IEEE/ACM Transactions on Networking, 2021.
 
 [IoTJ'20] Yan Huang, Shaoran Li, **Chengzhang Li**, Y. Thomas Hou, and Wenjing Lou, _“A Deep Reinforcement
 Learning-based Approach to Dynamic eMBB/URLLC Multiplexing in 5G NR",_ IEEE
