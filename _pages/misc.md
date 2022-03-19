@@ -1,6 +1,6 @@
 ---
 #layout: archive
-title: "Misc"
+title: "Journal"
 permalink: /misc/
 #author_profile: true
 ---
