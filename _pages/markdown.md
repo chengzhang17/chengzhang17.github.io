@@ -7,4 +7,5 @@ redirect_from:
   - /markdown.html
 ---
 
+I am a decent [Go](https://en.wikipedia.org/wiki/Go_(game)) player.  
 
