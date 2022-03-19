@@ -4,7 +4,7 @@ main:
     url: /publications/
     
     - title: "Misc"
-    url: /non-menu-page/
+    url: /markdown/
     
 
   #- title: "Talks"
