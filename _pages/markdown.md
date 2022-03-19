@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Other Activities"
+title: "Miscellaneous"
 author_profile: true
 redirect_from: 
   - /md/
