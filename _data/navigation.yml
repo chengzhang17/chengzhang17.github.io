@@ -3,8 +3,6 @@ main:
   - title: "Publications"
     url: /publications/
     
-    - title: "Misc"
-    url: /markdown/
     
 
   #- title: "Talks"
@@ -17,5 +15,5 @@ main:
 #  - title: "CV"
  #   url: /cv/
     
- # - title: "Markdown"
- #   url: /markdown/
+  - title: "Markdown"
+    url: /markdown/
