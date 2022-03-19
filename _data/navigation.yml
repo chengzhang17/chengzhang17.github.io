@@ -3,7 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
     
-
+    - title: "Misc"
+    url: /non-menu-page/
+    
 
   #- title: "Talks"
    # url: /talks/    
@@ -15,5 +17,5 @@ main:
 #  - title: "CV"
  #   url: /cv/
     
-  - title: "Misc"
-    url: /markdown/
+ # - title: "Markdown"
+ #   url: /markdown/
