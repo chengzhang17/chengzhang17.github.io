@@ -19,8 +19,7 @@ Education
 
 Work experience
 ======
-* Summer 2022: 5G Wireless Software Intern
-  * NVIDIA Corporation, Santa Clara, CA
+* Summer 2022: 5G Wireless Software Intern, NVIDIA Corporation, Santa Clara, CA
 
   
 Skills
@@ -28,12 +27,6 @@ Skills
 * Languages:  Matlab, Python, C/C++
 * Skills NVIDIA CUDA: 
 
-
-#Talks
-#======
- # <ul>{% for post in site.talks %}
-  #  {% include archive-single-talk-cv.html %}
-  #{% endfor %}</ul>
   
 Teaching
 ======
