@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* Summer 2022: 5G Wireless Software Intern, NVIDIA Corporation, Santa Clara, CA
+* Summer 2022: 5G Wireless Software Intern at NVIDIA Corporation, Santa Clara, CA
 
   
 Skills
