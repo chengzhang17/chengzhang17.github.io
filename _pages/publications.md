@@ -36,7 +36,7 @@ Science and Engineering, 2020.
 Conference
 ======
 [INFOCOM'22] Qingyu Liu, **Chengzhang Li**, Y. Thomas Hou, Wenjing Lou, Jeffrey Reed, and Sastry Kompella,
-_“Ao^2I: Minimizing Age of Outdated Information to Improve Freshness in Data Collection"_, in Proc.
+_“Ao<sup>(2)I: Minimizing Age of Outdated Information to Improve Freshness in Data Collection"_, in Proc.
 of IEEE INFOCOM 2022
 
 [MobiHoc'21] Shaoran Li, **Chengzhang Li**, Yan Huang, Brian A Jalaian, Y Thomas Hou, Wenjing Lou, _“Task
