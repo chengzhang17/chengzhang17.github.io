@@ -25,7 +25,7 @@ Work experience
 Skills
 ======
 * Languages:  Matlab, Python, C/C++
-* Skills NVIDIA CUDA: 
+* Skills: NVIDIA CUDA
 
   
 Teaching
