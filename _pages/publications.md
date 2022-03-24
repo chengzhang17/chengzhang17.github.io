@@ -11,7 +11,7 @@ permalink: /publications/
 
 [ToN'21] Shaoran Li, Yan Huang, **Chengzhang Li**, Brian A Jalaian, Y Thomas Hou, Wenjing Lou,
 and Stephen Russell, “[Maximize Spectrum Efficiency in Underlay Coexistence With Channel
-Uncertainty](http://chengzhang17.github.io/files/SLi22_ToN_Coexist.pdf)," _IEEE/ACM Transactions on Networking,_ 2021.
+Uncertainty](http://chengzhang17.github.io/files/SLi21_ToN_Coexist.pdf)," _IEEE/ACM Transactions on Networking,_ 2021.
 
 [TMC'21] Yongce Chen, Shaoran Li, **Chengzhang Li**, Huacheng Zeng, Brian Jalaian, Y. Thomas Hou, and Wenjing Lou, “[On DoF Conservation in MIMO Interference Cancellation based on Signal Strength in the Eigenspace](http://chengzhang17.github.io/files/Chen21_TMC_DoF.pdf)," _IEEE Transactions on Mobile Computing,_ 2021.
 
