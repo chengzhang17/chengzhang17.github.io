@@ -5,33 +5,32 @@ permalink: /publications/
 #author_profile: true
 ---
 
-[ToN'22] **Chengzhang Li**, Qingyu Liu, Shaoran Li, Yongce Chen, Y. Thomas Hou, Wenjing Lou, and Sastry Kompella, “Scheduling with Age of Information Guarantee," _IEEE/ACM Transactions on Networking,_ 2022. 
-[PDF](http://chengzhang17.github.io/files/Li22_ToN_AoI.pdf)
+[ToN'22] **Chengzhang Li**, Qingyu Liu, Shaoran Li, Yongce Chen, Y. Thomas Hou, Wenjing Lou, and Sastry Kompella, “[Scheduling with Age of Information Guarantee](http://chengzhang17.github.io/files/Li22_ToN_AoI.pdf)," _IEEE/ACM Transactions on Networking,_ 2022. 
 
-[TMC'22] Yongce Chen, Yan Huang, **Chengzhang Li**, Y. Thomas Hou, and Wenjing Lou, “Turbo-HB: A Sub-millisecond Hybrid Beamforming Design for 5G mmWave Systems," _IEEE Transactions on Mobile Computing,_ 2022.
+[TMC'22] Yongce Chen, Yan Huang, **Chengzhang Li**, Y. Thomas Hou, and Wenjing Lou, “[Turbo-HB: A Sub-millisecond Hybrid Beamforming Design for 5G mmWave Systems](http://chengzhang17.github.io/files/Chen22_TMC_HB.pdf)," _IEEE Transactions on Mobile Computing,_ 2022.
 
 [ToN'21] Shaoran Li, Yan Huang, **Chengzhang Li**, Brian A Jalaian, Y Thomas Hou, Wenjing Lou,
-and Stephen Russell, “Maximize Spectrum Efficiency in Underlay Coexistence With Channel
-Uncertainty," _IEEE/ACM Transactions on Networking,_ 2021.
+and Stephen Russell, “[Maximize Spectrum Efficiency in Underlay Coexistence With Channel
+Uncertainty](http://chengzhang17.github.io/files/SLi22_ToN_Coexist.pdf)," _IEEE/ACM Transactions on Networking,_ 2021.
 
-[TMC'21] Yongce Chen, Shaoran Li, **Chengzhang Li**, Huacheng Zeng, Brian Jalaian, Y. Thomas Hou, and Wenjing Lou, “On DoF Conservation in MIMO Interference Cancellation based on Signal Strength in the Eigenspace," _IEEE Transactions on Mobile Computing,_ 2021.
+[TMC'21] Yongce Chen, Shaoran Li, **Chengzhang Li**, Huacheng Zeng, Brian Jalaian, Y. Thomas Hou, and Wenjing Lou, “[On DoF Conservation in MIMO Interference Cancellation based on Signal Strength in the Eigenspace](http://chengzhang17.github.io/files/Chen21_TMC_DoF.pdf)," _IEEE Transactions on Mobile Computing,_ 2021.
 
-[TMC'21] Shaoran Li, Yan Huang, **Chengzhang Li**, Thomas Hou, Wenjing Lou, Brian Jalaian, and Stephen Russell, “Achieving Real-Time Spectrum Sharing in 5G Underlay Coexistence with Channe lUncertainty," _IEEE Transactions on Mobile Computing,_ 2021.
+[TMC'21] Shaoran Li, Yan Huang, **Chengzhang Li**, Thomas Hou, Wenjing Lou, Brian Jalaian, and Stephen Russell, “[Achieving Real-Time Spectrum Sharing in 5G Underlay Coexistence with Channe lUncertainty](http://chengzhang17.github.io/files/SLi21_ToN_Coexist.pdf)," _IEEE Transactions on Mobile Computing,_ 2021.
 
 [IoTJ'21] **Chengzhang Li**, Yan Huang, Shaoran Li, Yongce Chen, Brian A. Jalaian, Y. Thomas Hou,
-Wenjing Lou, Jeffrey H. Reed, and Sastry Kompella, “Minimizing AoI in a 5G-based IoT Network
-under Varying Channel Conditions," _IEEE Internet of Things Journal,_ 2021.
+Wenjing Lou, Jeffrey H. Reed, and Sastry Kompella, “[Minimizing AoI in a 5G-based IoT Network
+under Varying Channel Conditions](http://chengzhang17.github.io/files/Li21_IoTJ_AoI.pdf)," _IEEE Internet of Things Journal,_ 2021.
 
 [IoTJ'21] Darshan A. Ravi, Vijay K. Shah, **Chengzhang Li**, Y. Thomas Hou and Jeffrey H. Reed, 
-“RAN Slicing in Multi-MVNO Environment under Dynamic Channel Conditions," _IEEE Internet of Things Journal,_ 2021.
+“[RAN Slicing in Multi-MVNO Environment under Dynamic Channel Conditions](http://chengzhang17.github.io/files/Ravi22_IoTJ_MVNO.pdf)," _IEEE Internet of Things Journal,_ 2021.
 
 
-[IoTJ'20] Yan Huang, Shaoran Li, **Chengzhang Li**, Y. Thomas Hou, and Wenjing Lou, “A Deep Reinforcement
-Learning-based Approach to Dynamic eMBB/URLLC Multiplexing in 5G NR", _IEEE
+[IoTJ'20] Yan Huang, Shaoran Li, **Chengzhang Li**, Y. Thomas Hou, and Wenjing Lou, “[A Deep Reinforcement
+Learning-based Approach to Dynamic eMBB/URLLC Multiplexing in 5G NR](http://chengzhang17.github.io/files/Huang20_IoTJ_5G.pdf)", _IEEE
 Internet of Things Journal,_ 2020.
 
-[TNSE'20] **Chengzhang Li**, Shaoran Li, Yongce Chen, Y. Thomas Hou, and Wenjing Lou, “Minimizing Age
-of Information under General Models for IoT Data Collection", _IEEE Transactions on Network
+[TNSE'20] **Chengzhang Li**, Shaoran Li, Yongce Chen, Y. Thomas Hou, and Wenjing Lou, “[Minimizing Age
+of Information under General Models for IoT Data Collection](http://chengzhang17.github.io/files/Li20_TNSE_AoI.pdf)", _IEEE Transactions on Network
 Science and Engineering,_ 2020.
 
 Conference Papers
