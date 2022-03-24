@@ -36,47 +36,46 @@ Science and Engineering,_ 2020.
 Conference Papers
 ======
 [C12] Qingyu Liu, **Chengzhang Li**, Y. Thomas Hou, Wenjing Lou, Jeffrey Reed, and Sastry Kompella,
-“[Ao<sup>2</sup>I: Minimizing Age of Outdated Information to Improve Freshness in Data Collection](http://chengzhang17.github.io/files/Liu22_INFOCOM_AoI.pdf)," in Proc. of _IEEE INFOCOM_ 2022.
+“[Ao<sup>2</sup>I: Minimizing Age of Outdated Information to Improve Freshness in Data Collection](http://chengzhang17.github.io/files/Liu22_INFOCOM_AoI.pdf)," in Proc. _IEEE INFOCOM_ 2022. (Acceptance rate: 225/1129=19.9%)
 
 [C11] Naru Jai, Shaoran Li, **Chengzhang Li**, Y. Thomas Hou, Wenjing Lou, Jeffrey Reed, and Sastry
 Kompella, “[Optimal Channel Allocation in the CBRS Band with Shipborne Radar Incumbents](http://chengzhang17.github.io/files/Jai21_DySPAN_CBRS.pdf),"
-in Proc. of _IEEE DySPAN_ 2021.
+in Proc. _IEEE DySPAN_ 2021.
 
 [C10] Shaoran Li, **Chengzhang Li**, Yan Huang, Brian A Jalaian, Y Thomas Hou, Wenjing Lou, “[Task
-Offloading with Uncertain Processing Cycles](http://chengzhang17.github.io/files/SLi21_MobiHoc_Offload.pdf)," in Proc. of ACM MobiHoc 2021.
+Offloading with Uncertain Processing Cycles](http://chengzhang17.github.io/files/SLi21_MobiHoc_Offload.pdf)," in Proc. ACM MobiHoc 2021.
 
 [C9] **Chengzhang Li**, Qingyu Liu, Shaoran Li, Yongce Chen, Y. Thomas Hou, and Wenjing Lou, “[On
-Scheduling with AoI Violation Tolerance](http://chengzhang17.github.io/files/Li21_INFOCOM_AoI.pdf)," in Proc. of _IEEE INFOCOM_ 2021.
+Scheduling with AoI Violation Tolerance](http://chengzhang17.github.io/files/Li21_INFOCOM_AoI.pdf)," in Proc. _IEEE INFOCOM_ 2021.
 
 [C8] Qingyu Liu, **Chengzhang Li**, Y. Thomas Hou, Wenjing Lou, and Sastry Kompella, “[Aion: A
-Bandwidth Optimized Scheduler with AoI Guarantee](http://chengzhang17.github.io/files/Liu21_INFOCOM_AoI.pdf)," in Proc. of _IEEE INFOCOM_ 2021.
+Bandwidth Optimized Scheduler with AoI Guarantee](http://chengzhang17.github.io/files/Liu21_INFOCOM_AoI.pdf)," in Proc. _IEEE INFOCOM_ 2021.
 
 [C7 **Chengzhang Li**, Shaoran Li, Yongce Chen, Y. Thomas Hou, and Wenjing Lou, “[AoI Scheduling
-with Maximum Thresholds](http://chengzhang17.github.io/files/Li20_INFOCOM_AoI.pdf)," in Proc. of _IEEE INFOCOM_ 2020.
+with Maximum Thresholds](http://chengzhang17.github.io/files/Li20_INFOCOM_AoI.pdf)," in Proc. _IEEE INFOCOM_ 2020.
 
 [C6] Yongce Chen, Yan Huang, **Chengzhang Li**, Y. Thomas Hou, and Wenjing Lou, “[Turbo-HB: A
-Novel Design and Implementation to Achieve Ultra-Fast Hybrid Beamforming](http://chengzhang17.github.io/files/Chen20_INFOCOM_HB.pdf)," in Proc. of _IEEE
+Novel Design and Implementation to Achieve Ultra-Fast Hybrid Beamforming](http://chengzhang17.github.io/files/Chen20_INFOCOM_HB.pdf)," in Proc. _IEEE
 INFOCOM_ 2020.
 
 
 [C5] Shaoran Li, Yan Huang, **Chengzhang Li**, Brian Jalaian, Stephen Russell, Y. Thomas Hou,
 Wenjing Lou, and Benjamin MacCall, “[A Real-Time Solution for Underlay Coexistence with
-Channel Uncertainty](http://chengzhang17.github.io/files/SLi19_GLOBECOM_Coexist.pdf)", in Proc. of _IEEE GLOBECOM_ 2019.
+Channel Uncertainty](http://chengzhang17.github.io/files/SLi19_GLOBECOM_Coexist.pdf)", in Proc. _IEEE GLOBECOM_ 2019.
 
 [C4] **Chengzhang Li**, Yan Huang, Yongce Chen, Brian Jalaian, Y. Thomas Hou, and Wenjing Lou,
-“[Kronos: A 5G Scheduler for AoI Minimization under Dynamic Channel Conditions](http://chengzhang17.github.io/files/Li19_ICDCS_AoI.pdf)," in Proc. of
+“[Kronos: A 5G Scheduler for AoI Minimization under Dynamic Channel Conditions](http://chengzhang17.github.io/files/Li19_ICDCS_AoI.pdf)," in Proc.
 _IEEE ICDCS_ 2019.
 
 [C3] Shaoran Li, Yan Huang, **Chengzhang Li**, Brian A. Jalaian, Y. Thomas Hou, and Wenjing Lou,
-“[Coping Uncertainty in Coexistence via Exploitation of Interference Threshold Violation](http://chengzhang17.github.io/files/SLi19_MobiHoc_Coexist.pdf)", in Proc.
-of _ACM MobiHoc_ 2019.
+“[Coping Uncertainty in Coexistence via Exploitation of Interference Threshold Violation](http://chengzhang17.github.io/files/SLi19_MobiHoc_Coexist.pdf)", in Proc. _ACM MobiHoc_ 2019.
 
 [C2] **Chengzhang Li**, Shaoran Li, and Y. Thomas Hou, “[A General Model for Minimizing Age of
-Information at Network Edge](http://chengzhang17.github.io/files/Li19_INFOCOM_AoI.pdf)", in Proc. of _IEEE INFOCOM_ 2019.
+Information at Network Edge](http://chengzhang17.github.io/files/Li19_INFOCOM_AoI.pdf)", in Proc. _IEEE INFOCOM_ 2019.
 
 [C1] Yongce Chen, Shaoran Li, **Chengzhang Li**, Y. Thomas Hou, abd Brian Jalaian, “[To Cancel or
 Not to Cancel: Exploiting Interference Signal Strength in the Eigenspace for Efficient MIMO DoF
-Utilization](http://chengzhang17.github.io/files/Chen19_INFOCOM_DoF.pdf)," in Proc. of _IEEE INFOCOM_ 2019.
+Utilization](http://chengzhang17.github.io/files/Chen19_INFOCOM_DoF.pdf)," in Proc. _IEEE INFOCOM_ 2019.
 
 
 
