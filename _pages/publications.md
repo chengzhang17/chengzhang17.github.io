@@ -38,7 +38,7 @@ Conference Papers
 ======
 [INFOCOM'22] Qingyu Liu, **Chengzhang Li**, Y. Thomas Hou, Wenjing Lou, Jeffrey Reed, and Sastry Kompella,
 “Ao<sup>2</sup>I: Minimizing Age of Outdated Information to Improve Freshness in Data Collection," in Proc.
-of _IEEE INFOCOM_ 2022
+of _IEEE INFOCOM_ 2022.
 
 [MobiHoc'21] Shaoran Li, **Chengzhang Li**, Yan Huang, Brian A Jalaian, Y Thomas Hou, Wenjing Lou, “Task
 Offloading with Uncertain Processing Cycles," in Proc. of ACM MobiHoc 2021.
