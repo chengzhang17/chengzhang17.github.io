@@ -5,7 +5,8 @@ permalink: /publications/
 #author_profile: true
 ---
 
-[ToN'22] **Chengzhang Li**, Qingyu Liu, Shaoran Li, Yongce Chen, Y. Thomas Hou, Wenjing Lou, and Sastry Kompella, _“Scheduling with Age of Information Guarantee"_, IEEE/ACM Transactions on Networking, 2022.
+[ToN'22] **Chengzhang Li**, Qingyu Liu, Shaoran Li, Yongce Chen, Y. Thomas Hou, Wenjing Lou, and Sastry Kompella, _“Scheduling with Age of Information Guarantee"_, IEEE/ACM Transactions on Networking, 2022. 
+[PDF](http://chengzhang17.github.io/files/Li22_ToN_AoI.pdf)
 
 [TMC'22] Yongce Chen, Yan Huang, **Chengzhang Li**, Y. Thomas Hou, and Wenjing Lou, _“Turbo-HB: A Sub-millisecond Hybrid Beamforming Design for 5G mmWave Systems"_, IEEE Transactions on Mobile Computing, 2022.
 
