@@ -7,30 +7,30 @@ permalink: /publications/
 
 [J9] **Chengzhang Li**, Qingyu Liu, Shaoran Li, Yongce Chen, Y. Thomas Hou, Wenjing Lou, and Sastry Kompella, “[Scheduling with Age of Information Guarantee](https://ieeexplore.ieee.org/abstract/document/9739124?casa_token=GVX7FibMGHsAAAAA:UdNvujc3-o-k5ZSy_qh00p3OHR-Ede5YvYOc83eqv-TWvZW8j9EKQL0mONJ1qLhopnDoaHHWrg)," _IEEE/ACM Transactions on Networking,_ 2022. 
 
-[J8] Yongce Chen, Yan Huang, **Chengzhang Li**, Y. Thomas Hou, and Wenjing Lou, “[Turbo-HB: A Sub-millisecond Hybrid Beamforming Design for 5G mmWave Systems](http://chengzhang17.github.io/files/Chen22_TMC_HB.pdf)," _IEEE Transactions on Mobile Computing,_ 2022.
+[J8] Yongce Chen, Yan Huang, **Chengzhang Li**, Y. Thomas Hou, and Wenjing Lou, “[Turbo-HB: A Sub-millisecond Hybrid Beamforming Design for 5G mmWave Systems](https://ieeexplore.ieee.org/document/9716803)," _IEEE Transactions on Mobile Computing,_ 2022.
 
 [J7] Darshan A. Ravi, Vijay K. Shah, **Chengzhang Li**, Y. Thomas Hou and Jeffrey H. Reed, 
-“[RAN Slicing in Multi-MVNO Environment under Dynamic Channel Conditions](http://chengzhang17.github.io/files/Ravi22_IoTJ_MVNO.pdf)," _IEEE Internet of Things Journal,_ 2022.
+“[RAN Slicing in Multi-MVNO Environment under Dynamic Channel Conditions](https://ieeexplore.ieee.org/document/9524327)," _IEEE Internet of Things Journal,_ 2022.
 
 [J6] Shaoran Li, Yan Huang, **Chengzhang Li**, Brian A Jalaian, Y Thomas Hou, Wenjing Lou,
 and Stephen Russell, “[Maximize Spectrum Efficiency in Underlay Coexistence With Channel
-Uncertainty](http://chengzhang17.github.io/files/SLi21_ToN_Coexist.pdf)," _IEEE/ACM Transactions on Networking,_ 2021.
+Uncertainty](https://ieeexplore.ieee.org/document/9321155)," _IEEE/ACM Transactions on Networking,_ 2021.
 
-[J5] Yongce Chen, Shaoran Li, **Chengzhang Li**, Huacheng Zeng, Brian Jalaian, Y. Thomas Hou, and Wenjing Lou, “[On DoF Conservation in MIMO Interference Cancellation based on Signal Strength in the Eigenspace](http://chengzhang17.github.io/files/Chen21_TMC_DoF.pdf)," _IEEE Transactions on Mobile Computing,_ 2021.
+[J5] Yongce Chen, Shaoran Li, **Chengzhang Li**, Huacheng Zeng, Brian Jalaian, Y. Thomas Hou, and Wenjing Lou, “[On DoF Conservation in MIMO Interference Cancellation based on Signal Strength in the Eigenspace](https://ieeexplore.ieee.org/document/9609693)," _IEEE Transactions on Mobile Computing,_ 2021.
 
-[J4] Shaoran Li, Yan Huang, **Chengzhang Li**, Thomas Hou, Wenjing Lou, Brian Jalaian, and Stephen Russell, “[Achieving Real-Time Spectrum Sharing in 5G Underlay Coexistence with Channe lUncertainty](http://chengzhang17.github.io/files/SLi21_ToN_Coexist.pdf)," _IEEE Transactions on Mobile Computing,_ 2021.
+[J4] Shaoran Li, Yan Huang, **Chengzhang Li**, Thomas Hou, Wenjing Lou, Brian Jalaian, and Stephen Russell, “[Achieving Real-Time Spectrum Sharing in 5G Underlay Coexistence with Channel Uncertainty](https://ieeexplore.ieee.org/document/9580537)," _IEEE Transactions on Mobile Computing,_ 2021.
 
 [J3] **Chengzhang Li**, Yan Huang, Shaoran Li, Yongce Chen, Brian A. Jalaian, Y. Thomas Hou,
 Wenjing Lou, Jeffrey H. Reed, and Sastry Kompella, “[Minimizing AoI in a 5G-based IoT Network
-under Varying Channel Conditions](http://chengzhang17.github.io/files/Li21_IoTJ_AoI.pdf)," _IEEE Internet of Things Journal,_ 2021.
+under Varying Channel Conditions](https://ieeexplore.ieee.org/document/9335591)," _IEEE Internet of Things Journal,_ 2021.
 
 
 [J2] Yan Huang, Shaoran Li, **Chengzhang Li**, Y. Thomas Hou, and Wenjing Lou, “[A Deep Reinforcement
-Learning-based Approach to Dynamic eMBB/URLLC Multiplexing in 5G NR](http://chengzhang17.github.io/files/Huang20_IoTJ_5G.pdf)", _IEEE
+Learning-based Approach to Dynamic eMBB/URLLC Multiplexing in 5G NR](https://ieeexplore.ieee.org/document/9025218)", _IEEE
 Internet of Things Journal,_ 2020.
 
 [J1] **Chengzhang Li**, Shaoran Li, Yongce Chen, Y. Thomas Hou, and Wenjing Lou, “[Minimizing Age
-of Information under General Models for IoT Data Collection](http://chengzhang17.github.io/files/Li20_TNSE_AoI.pdf)", _IEEE Transactions on Network
+of Information under General Models for IoT Data Collection](https://ieeexplore.ieee.org/document/8894836)", _IEEE Transactions on Network
 Science and Engineering,_ 2020.
 
 Conference Papers
