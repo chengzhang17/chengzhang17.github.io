@@ -15,7 +15,7 @@ Education
 ======
 * B.S. in Electronic Engineering, Tsinghua University, 2017
 * M.S. in Computer Engineering, Virginia Tech, 2020
-* Ph.D in Computer Engineering, Virginia Tech, 2022 (expected)
+* Ph.D in Computer Engineering, Virginia Tech, 2022
 
 Work experience
 ======
