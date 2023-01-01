@@ -14,7 +14,7 @@ News
 ======
 \[Jan. 2023\] I joined AI-EDGE Institute, Ohio State University as a postdoc.
 
-\[Dec. 2022\] I received my Ph.D. degree in Computer Engineering from Virginia Tech/
+\[Dec. 2022\] I received my Ph.D. degree in Computer Engineering from Virginia Tech.
 
 \[Dec. 2022\] One paper was accepted by IEEE INFOCOM, 2023.
 
