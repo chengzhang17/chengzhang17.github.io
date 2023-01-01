@@ -8,16 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I’m Chengzhang Li, a fifth-year Ph.D. student at ECE Department, Virginia Tech, supervised by Prof. [Tom Hou](https://www.cnsr.ictas.vt.edu/THou.html). I received my B.S. degree in Electronic Engineering from Tsinghua University in 2017, and my M.S degree in Computer Engineering from Virginia Tech in 2020. My current research interests are real-time scheduling in 5G, Age of Information (AoI), and machine learning in wireless networks. My email address is licz17@vt.edu.
+Hello, I’m Chengzhang Li. I am currently a postdoc at AI-EDGE Institute, Ohio State University. My supervisor is Prof. [Ness Shroff](http://newslab.ece.ohio-state.edu/home). I received my Ph.D. degree in Computer Engineering from Virginia Tech in 2022, supervised by Prof. [Tom Hou](https://www.cnsr.ictas.vt.edu/THou.html).I received my B.S. degree in Electronic Engineering from Tsinghua University in 2017. My current research interests are real-time scheduling in 5G, Age of Information (AoI), and machine learning in wireless networks. My email address is li.13499@osu.edu.
 
 News
 ======
-\[Jan. 2022\] I will join NVIDIA Corporation as a 5G Wireless Software Intern in Summer 2022.
+\[Jan. 2023\] I joined AI-EDGE Institute, Ohio State University as a postdoc.
 
-\[Dec. 2021\] One paper was accepted by IEEE INFOCOM, 2022.
+\[Dec. 2022\] I received my Ph.D. degree in Computer Engineering from Virginia Tech/
 
-\[May. 2021\] One paper was accepted by ACM MobiHoc, 2021.
+\[Dec. 2022\] One paper was accepted by IEEE INFOCOM, 2023.
 
-\[Mar. 2021\] I received Student Travel Grant from IEEE INFOCOM, 2021.
+\[May. 2022\] I joined NVIDIA Corporation as a 5G Wireless Software Intern in Summer 2022.
+
+
 
 
