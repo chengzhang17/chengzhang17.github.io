@@ -35,6 +35,12 @@ Science and Engineering,_ 2020.
 
 Conference Papers
 ======
+
+[C14] **Chengzhang Li**, Shaoran Li, Qingyu Liu, Y. Thomas Hou, Wenjing Lou, and Sastry Kompella, “[Eywa: A General Approach for Scheduler Design in
+AoI Optimization](http://chengzhang17.github.io/files/Li23_INFOCOM_AoI.pdf)," in Proc. _IEEE INFOCOM_ 2023.
+
+[C13] **Chengzhang Li**, Qingyu Liu, Y. Thomas Hou, Wenjing Lou, and Sastry Kompella, “[Aequitas: A Uniformly Fair 5G Scheduler for Minimizing Outdated Information](http://chengzhang17.github.io/files/Li22_MASS_AoI.pdf)," in Proc. _IEEE MASS_ 2022.
+
 [C12] Qingyu Liu, **Chengzhang Li**, Y. Thomas Hou, Wenjing Lou, Jeffrey Reed, and Sastry Kompella,
 “[Ao<sup>2</sup>I: Minimizing Age of Outdated Information to Improve Freshness in Data Collection](http://chengzhang17.github.io/files/Liu22_INFOCOM_AoI.pdf)," in Proc. _IEEE INFOCOM_ 2022. (Acceptance rate: 225/1129=19.9%)
 
@@ -43,7 +49,7 @@ Kompella, “[Optimal Channel Allocation in the CBRS Band with Shipborne Radar I
 in Proc. _IEEE DySPAN_ 2021.
 
 [C10] Shaoran Li, **Chengzhang Li**, Yan Huang, Brian A Jalaian, Y Thomas Hou, Wenjing Lou, “[Task
-Offloading with Uncertain Processing Cycles](http://chengzhang17.github.io/files/SLi21_MobiHoc_Offload.pdf)," in Proc. ACM MobiHoc 2021. (Acceptance rate: 28/139=20.1%)
+Offloading with Uncertain Processing Cycles](http://chengzhang17.github.io/files/SLi21_MobiHoc_Offload.pdf)," in Proc. _ACM MobiHoc_ 2021. (Acceptance rate: 28/139=20.1%)
 
 [C9] **Chengzhang Li**, Qingyu Liu, Shaoran Li, Yongce Chen, Y. Thomas Hou, and Wenjing Lou, “[On
 Scheduling with AoI Violation Tolerance](http://chengzhang17.github.io/files/Li21_INFOCOM_AoI.pdf)," in Proc. _IEEE INFOCOM_ 2021. (Acceptance rate: 252/1266=19.9%)
