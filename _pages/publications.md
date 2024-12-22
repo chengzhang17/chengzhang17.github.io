@@ -5,6 +5,20 @@ permalink: /publications/
 #author_profile: true
 ---
 
+[J16] **Chengzhang Li**, Qingyu Liu, Shaoran Li, Yongce Chen, Y. Thomas Hou, and Wenjing Lou, "[Scheduling With Soft Age of Information Deadlines](https://ieeexplore.ieee.org/document/10750279),"  _IEEE Internet of Things Journal,_  2024.
+
+[J15] **Chengzhang Li**, Qingyu Liu, Y. Thomas Hou, Wenjing Lou, and Sastry Kompella, “[Aequitas: A 5G Scheduler for Minimizing Outdated Information in IoT Networks](https://ieeexplore.ieee.org/document/10490103),” _IEEE Internet of Things Journal,_  2024.
+
+[J14] Peizhong Ju, **Chengzhang Li (co-first author),** Yingbin Liang, and Ness Shroff, “[AI-EDGE: An NSF AI institute for future edge networks and distributed intelligence](https://ieeexplore.ieee.org/document/10478322),” _AI Magazine,_ 2024.
+
+[J13] Naru Jai, Yi Shi, Shaoran Li, **Chengzhang Li**, Y Thomas Hou, Wenjing Lou, Jeffrey H Reed, Masoud Olfat, Sastry Kompella, and Luiz DaSilva, “[Modeling and Optimization of Channel Allocation for PAL and GAA Users in the CBRS Band](https://ieeexplore.ieee.org/document/10261235),” _IEEE Transactions on Cognitive Communications and Networking_, 2024.
+
+[J12] Qingyu Liu, **Chengzhang Li**, Y. Thomas Hou, Wenjing Lou, Jeffery H. Reed, and Sastry Kompella, “[Aion: A Bandwidth Conserving Scheduler with Data Freshness Guarantee](https://ieeexplore.ieee.org/document/9925629),” _IEEE Transactions on Mobile Computing,_ 2024.
+
+[J11] P. Kheirkhah Sangdeh, **Chengzhang Li**, Hossein Pirayesh, Shichen Zhang, Huacheng Zeng, and Y. Thomas Hou, “[CF4FL: A Communication Framework for Federated Learning in Transportation Systems](https://ieeexplore.ieee.org/document/9961228),” _IEEE Transactions on Wireless Communications,_ 2023.
+
+[J10] Shaoran Li, **Chengzhang Li**, Yan Huang, Brian Jalaian, Y. Thomas Hou, and Wenjing Lou, “[Enhancing Resilience in Mobile Edge Computing with Processing Uncertainty](https://ieeexplore.ieee.org/abstract/document/10007803),” _IEEE Journal on Selected Areas in Communications,_ 2023.
+
 [J9] **Chengzhang Li**, Qingyu Liu, Shaoran Li, Yongce Chen, Y. Thomas Hou, Wenjing Lou, and Sastry Kompella, “[Scheduling with Age of Information Guarantee](https://ieeexplore.ieee.org/document/9739124)," _IEEE/ACM Transactions on Networking,_ 2022. 
 
 [J8] Yongce Chen, Yan Huang, **Chengzhang Li**, Y. Thomas Hou, and Wenjing Lou, “[Turbo-HB: A Sub-millisecond Hybrid Beamforming Design for 5G mmWave Systems](https://ieeexplore.ieee.org/document/9716803)," _IEEE Transactions on Mobile Computing,_ 2022.
