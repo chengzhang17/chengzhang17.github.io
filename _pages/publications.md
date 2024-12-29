@@ -50,13 +50,24 @@ Science and Engineering,_ 2020.
 Conference Papers
 ======
 
-[C14] **Chengzhang Li**, Shaoran Li, Qingyu Liu, Y. Thomas Hou, Wenjing Lou, and Sastry Kompella, “[Eywa: A General Approach for Scheduler Design in
+[C20] **Chengzhang Li**, Peizhong Ju, Atilla Eryilmaz, and Ness B. Shroff, “[Efficient Multi-dimensional Compression for Network-edge Classification](https://dl.acm.org/doi/abs/10.1145/3641512.3686390),” in Proc. ACM MobiHoc, 2024.
+
+[C19] Sunjung Kang, **Chengzhang Li**, Atilla Eryilmaz, and Ness B. Shroff, “[Balancing Current and Historical State Information in Remote Tracking Systems: A Randomized Update Approach](https://ieeexplore.ieee.org/document/10620767),” IEEE INFOCOM ASoI Workshop, 2024.
+
+[C18] Jihoon Yun, **Chengzhang Li**, Anish Arora, “[PAMLR: A Passive-Active Multi-Arm Bandit-Based Solution for LoRa Channel Allocation](https://dl.acm.org/doi/abs/10.1145/3600100.3623725),” ACM BuildSys, 2023.
+
+[C17] Qingyu Liu, **Chengzhang Li**, Y. Thomas Hou, Wenjing Lou, and Sastry Kompella, “[Age of Critical Information: Optimizing Data Freshness Based on Content Criticality](https://ieeexplore.ieee.org/document/10356349),” IEEE MILCOM, 2023.
+
+[C16] **Chengzhang Li**, Shaoran Li, Qingyu Liu, Y. Thomas Hou, Wenjing Lou, and Sastry Kompella, “[Eywa: A General Approach for Scheduler Design in
 AoI Optimization](http://chengzhang17.github.io/files/Li23_INFOCOM_AoI.pdf)," in Proc. _IEEE INFOCOM_ 2023.
 
-[C13] **Chengzhang Li**, Qingyu Liu, Y. Thomas Hou, Wenjing Lou, and Sastry Kompella, “[Aequitas: A Uniformly Fair 5G Scheduler for Minimizing Outdated Information](http://chengzhang17.github.io/files/Li22_Mass_AoI.pdf)," in Proc. _IEEE MASS_ 2022.
+[C15] Heng Jin, Qingyu Liu, **Chengzhang Li**, Y. Thomas Hou, Wenjing Lou, and Sastry Kompella, “[Hector: A Reinforcement Learning-Based Scheduler for Minimizing Casualties of a Military Drone Swarm](https://ieeexplore.ieee.org/document/10017716),” IEEE MILCOM, 2022.
 
-[C12] Qingyu Liu, **Chengzhang Li**, Y. Thomas Hou, Wenjing Lou, Jeffrey Reed, and Sastry Kompella,
-“[Ao<sup>2</sup>I: Minimizing Age of Outdated Information to Improve Freshness in Data Collection](http://chengzhang17.github.io/files/Liu22_INFOCOM_AoI.pdf)," in Proc. _IEEE INFOCOM_ 2022. (Acceptance rate: 225/1129=19.9%)
+[C14] **Chengzhang Li**, Qingyu Liu, Y. Thomas Hou, Wenjing Lou, and Sastry Kompella, “[Aequitas: A Uniformly Fair 5G Scheduler for Minimizing Outdated Information](http://chengzhang17.github.io/files/Li22_Mass_AoI.pdf)," in Proc. _IEEE MASS_ 2022.
+
+[C13] Qingyu Liu, **Chengzhang Li**, Y. Thomas Hou, Wenjing Lou, Jeffrey Reed, and Sastry Kompella, “[Ao<sup>2</sup>I: Minimizing Age of Outdated Information to Improve Freshness in Data Collection](http://chengzhang17.github.io/files/Liu22_INFOCOM_AoI.pdf)," in Proc. _IEEE INFOCOM_ 2022. (Acceptance rate: 225/1129=19.9%)
+
+[C12] Yubo Wu, **Chengzhang Li**, Y. Thomas Hou, and Wenjing Lou, “[Real-time DoA Estimation for Automotive Radar](https://ieeexplore.ieee.org/abstract/document/9784501),” in Proc. European Microwave Conference, 2022.
 
 [C11] Naru Jai, Shaoran Li, **Chengzhang Li**, Y. Thomas Hou, Wenjing Lou, Jeffrey Reed, and Sastry
 Kompella, “[Optimal Channel Allocation in the CBRS Band with Shipborne Radar Incumbents](http://chengzhang17.github.io/files/Jai21_DySPAN_CBRS.pdf),"
