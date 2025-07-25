@@ -15,7 +15,7 @@ News
 
 \[July 2025\] One paper is accepted by ACM MobiHoc 2025.
 
-\[June 2025\] Two US papents about 5G SNR estimation and BLER prediction, invented when I worked in NVIDIA Corporation, are published.
+\[June 2025\] Two US papents about 5G SNR estimation and BLER prediction, invented when I worked at NVIDIA Corporation, are published.
 
 \[Apr. 2025\] I will serve as a TPC member of IEEE INFOCOM 2026.
 
