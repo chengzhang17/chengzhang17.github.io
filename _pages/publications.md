@@ -5,7 +5,11 @@ permalink: /publications/
 #author_profile: true
 ---
 
-[J17] Qingyu Liu, **Chengzhang Li**, Yi Shi, Boyang Zhou, Y Thomas Hou, Wenjing Lou, "[Pistis: A Scheduler to Achieve Ultra Reliability for URLLC Traffic in 5G O-RAN](https://ieeexplore.ieee.org/abstract/document/10620233),"  _IEEE Internet of Things Journal,_  2024.
+[J19]  **Chengzhang Li**, Shaoran Li, Qingyu Liu, Y Thomas Hou, Wenjing Lou, and Sastry Kompella "[Eywa: A General Framework for Scheduler Design in AoI Optimization](https://ieeexplore.ieee.org/abstract/document/10964268),"  _IEEE Internet of Things Journal,_  2025.
+
+[J18] Yubo Wu, **Chengzhang Li**, Y Thomas Hou, and Wenjing Lou, "[A Real-Time Super-Resolution DoA Estimation Algorithm for Automotive Radar Sensor](https://ieeexplore.ieee.org/abstract/document/10689303),"  _IEEE Sensors Journal,_  2024.
+
+[J17] Qingyu Liu, **Chengzhang Li**, Yi Shi, Boyang Zhou, Y Thomas Hou, and Wenjing Lou, "[Pistis: A Scheduler to Achieve Ultra Reliability for URLLC Traffic in 5G O-RAN](https://ieeexplore.ieee.org/abstract/document/10620233),"  _IEEE Internet of Things Journal,_  2024.
 
 [J16] **Chengzhang Li**, Qingyu Liu, Shaoran Li, Yongce Chen, Y. Thomas Hou, and Wenjing Lou, "[Scheduling With Soft Age of Information Deadlines](https://ieeexplore.ieee.org/document/10750279),"  _IEEE Internet of Things Journal,_  2024.
 
@@ -56,7 +60,7 @@ Conference Papers
 
 [C21] **Chengzhang Li**, Peizhong Ju, Atilla Eryilmaz, and Ness B. Shroff, “[Efficient Multi-dimensional Compression for Network-edge Classification](https://dl.acm.org/doi/abs/10.1145/3641512.3686390),” in Proc. ACM MobiHoc, 2024.
 
-[C20] Shaoran Li, Nan Jiang, **Chengzhang Li**, Y Thomas Hou, Wenjing Lou, Weijun Xie, “[ReDBeam: Real-time MU-MIMO Beamforming with Limited CSI Data Samples](https://ieeexplore.ieee.org/abstract/document/10622851),” in Proc. IEEE ICC, 2024.
+[C20] Shaoran Li, Nan Jiang, **Chengzhang Li**, Y Thomas Hou, Wenjing Lou, and Weijun Xie, “[ReDBeam: Real-time MU-MIMO Beamforming with Limited CSI Data Samples](https://ieeexplore.ieee.org/abstract/document/10622851),” in Proc. IEEE ICC, 2024.
 
 [C19] Sunjung Kang, **Chengzhang Li**, Atilla Eryilmaz, and Ness B. Shroff, “[Balancing Current and Historical State Information in Remote Tracking Systems: A Randomized Update Approach](https://ieeexplore.ieee.org/document/10620767),” IEEE INFOCOM ASoI Workshop, 2024.
 
