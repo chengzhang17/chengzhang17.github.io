@@ -12,13 +12,17 @@ Hello, I’m Chengzhang Li. I am currently a research scientist at AI-EDGE Insti
 
 News
 ======
-\[Oct. 2024\] I attended the annual meeting of AI-EDGE Institute at Northeastern University.
 
-\[Sept. 2024\] I got promoted as a reserach scientist at AI-EDGE Institute, Ohio State University.
+\[July 2025\] One paper is accepted by ACM MobiHoc 2025.
 
-\[Aug. 2024\] One paper was accepted by ACM MobiHoc 2024.
+\[June 2025\] Two US papents about 5G SNR estimation and BLER prediction, invented when I worked in NVIDIA Corporation, are published.
 
-\[May 2024\] I will serve as a TPC Member of IEEE INFOCOM 2025.
+\[Apr. 2025\] I will serve as a TPC member of IEEE INFOCOM 2026.
+
+\[Mar. 2025\] I receive the Distinguish TPC Member Award by IEEE INFOCOM 2025.
+
+
+
 
 
 
