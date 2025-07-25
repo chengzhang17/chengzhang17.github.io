@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chengzhang Li"
 title_separator          : "-"
 name                     : &name "Chengzhang Li"
-description              : &description "Postdoc scholar at AI-EDGE Institute, OSU"
+description              : &description "Research Scientist at NSF AI-EDGE Institute, OSU"
 url                      : https://chengzhang17.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chengzhang17.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chengzhang Li"
   avatar           : "profile1.jpg"
-  bio              : "Research Scientist at AI-EDGE Institute, OSU"
+  bio              : "Research Scientist at NSF AI-EDGE Institute, OSU"
   location         : "Columbus, OH, USA"
   employer         :
   pubmed           : 
