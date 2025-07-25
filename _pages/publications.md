@@ -50,6 +50,8 @@ Science and Engineering,_ 2020.
 Conference Papers
 ======
 
+[C21] **Chengzhang Li**, Peizhong Ju, Atilla Eryilmaz, and Ness B. Shroff, “Title: Two Levels Are All You Need: Simplifying Data Compression for Timely Edge Classification,” accepted by Proc. ACM MobiHoc, 2025.
+
 [C20] **Chengzhang Li**, Peizhong Ju, Atilla Eryilmaz, and Ness B. Shroff, “[Efficient Multi-dimensional Compression for Network-edge Classification](https://dl.acm.org/doi/abs/10.1145/3641512.3686390),” in Proc. ACM MobiHoc, 2024.
 
 [C19] Sunjung Kang, **Chengzhang Li**, Atilla Eryilmaz, and Ness B. Shroff, “[Balancing Current and Historical State Information in Remote Tracking Systems: A Randomized Update Approach](https://ieeexplore.ieee.org/document/10620767),” IEEE INFOCOM ASoI Workshop, 2024.
