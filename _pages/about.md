@@ -19,7 +19,7 @@ News
 
 \[Apr. 2025\] I will serve as a TPC member of IEEE INFOCOM 2026.
 
-\[Mar. 2025\] I receive the Distinguish TPC Member Award by IEEE INFOCOM 2025.
+\[Mar. 2025\] I receive the Distinguished TPC Member Award by IEEE INFOCOM 2025.
 
 
 
