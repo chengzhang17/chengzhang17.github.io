@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I’m Chengzhang Li. I am currently a research scientist at [NSF AI-EDGE Institute](https://aiedge.osu.edu/), the Ohio State University, supervised by Prof. [Ness Shroff](https://u.osu.edu/shroff-11/). I received my Ph.D. degree in Computer Engineering from Virginia Tech in 2022, supervised by Prof. [Tom Hou](https://www.cnsr.ictas.vt.edu/THou.html). I received my B.S. degree in Electronic Engineering from Tsinghua University in 2017. My current research interests are data compression in edge networks, split computing, real-time scheduling in 5G, and Age of Information (AoI).  My email address is li.13488@osu.edu.
+Hello, I’m Chengzhang Li. I am currently a research scientist at [NSF AI-EDGE Institute](https://aiedge.osu.edu/), the Ohio State University, supervised by Prof. [Ness Shroff](https://u.osu.edu/shroff-11/). I received my Ph.D. degree in Computer Engineering from Virginia Tech in 2022, supervised by Prof. [Tom Hou](https://www.cnsr.ictas.vt.edu/THou.html). I received my B.S. degree in Electronic Engineering from Tsinghua University in 2017. My current research interests are data compression in edge networks, split learning, real-time scheduling in 5G, and Age of Information (AoI).  My email address is li.13488@osu.edu.
 
 News
 ======
