@@ -15,7 +15,7 @@ News
 
 \[July 2025\] One paper is accepted by ACM MobiHoc 2025.
 
-\[June 2025\] Two US papents, invented when I worked at the 5G Team in NVIDIA Corporation, are published.
+\[June 2025\] Two US patents, invented when I worked at the 5G Team in NVIDIA Corporation, are published.
 
 \[Apr. 2025\] I will serve as a TPC member of IEEE INFOCOM 2026.
 
