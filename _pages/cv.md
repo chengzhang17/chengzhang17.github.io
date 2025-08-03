@@ -20,8 +20,8 @@ Education
 Work experience
 ======
 * 2024--Present: Research Scientist, AI-EDGE Institute, OSU
-* 2023--2024: Postdoc, ECE, OSU. Advisor: Prof. Ness Shroff
-* Summer 2022: 5G Wireless Software Intern at NVIDIA Corporation, Santa Clara, CA
+* 2023--2024: Postdoc, ECE, OSU. Supervisor: Prof. Ness Shroff
+* Summer 2022: 5G Software Engineer at NVIDIA Corporation, Santa Clara, CA
 
   
 Skills
@@ -36,6 +36,5 @@ Teaching
   
 Services
 ======
-* Guest Editor: MPDI Electorics
 * Reviewer: IEEE/ACM ToN, IEEE TIT, IEEE TWC, IEEE TNSE, IEEE ISIT, IEEE Comm. Magazine, AAAI AI Magazine, Nature Scientific Reports
 * Conference TPC: IEEE INFOCOM 2025, 2024
