@@ -56,7 +56,7 @@ Science and Engineering,_ 2020.
 Conference Papers
 ======
 
-[C22] **Chengzhang Li**, Peizhong Ju, Atilla Eryilmaz, and Ness B. Shroff, “Title: Two Levels Are All You Need: Simplifying Data Compression for Timely Edge Classification,” accepted by ACM MobiHoc, 2025.
+[C22] **Chengzhang Li**, Peizhong Ju, Atilla Eryilmaz, and Ness B. Shroff, “Two Levels Are All You Need: Simplifying Data Compression for Timely Edge Classification,” accepted by ACM MobiHoc, 2025.
 
 [C21] **Chengzhang Li**, Peizhong Ju, Atilla Eryilmaz, and Ness B. Shroff, “[Efficient Multi-dimensional Compression for Network-edge Classification](https://dl.acm.org/doi/abs/10.1145/3641512.3686390),” in Proc. ACM MobiHoc, 2024.
 
