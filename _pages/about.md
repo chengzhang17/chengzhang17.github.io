@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, I’m Chengzhang Li. I am currently a research scientist at [NSF AI-EDGE Institute](https://aiedge.osu.edu/), the Ohio State University, supervised by Prof. [Ness Shroff](https://u.osu.edu/shroff-11/). I received my Ph.D. degree in Computer Engineering from Virginia Tech in 2022, supervised by Prof. [Tom Hou](https://www.cnsr.ictas.vt.edu/THou.html). I received my B.S. degree in Electronic Engineering from Tsinghua University in 2017. My current research interests are AI on edge networks, Internet of Things, real-time scheduling in 5G/6G, and network optimization.  My email address is li.13488@osu.edu.
 
-I will join [Department of Computer Science](https://luddy.indianapolis.iu.edu/about/departments/cs/index.html), Luddy School of Informatics, Computing, and Engineering, at Indiana University Indianapolis as a tenure-track assistant professor in January 2026. I plan to recruit two fully funded Ph.D. students starting in Fall 2026. If you are interested, please send me your CV and transcript.
+I will join [Department of Computer Science](https://luddy.indianapolis.iu.edu/about/departments/cs/index.html), Luddy School of Informatics, Computing, and Engineering, at Indiana University Indianapolis as a tenure-track assistant professor in January 2026. I plan to recruit two fully-funded Ph.D. students starting in Fall 2026. If you are interested, please send me your CV and transcript.
 
 News
 ======
