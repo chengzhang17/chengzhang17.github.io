@@ -14,7 +14,7 @@ I will join [Department of Computer Science](https://luddy.indianapolis.iu.edu/a
 
 News
 ======
-\[Oct. 2025\] I will join Department Computer Science at Indiana University Indianapolis as tenure-track assistant professor in January 2026.
+\[Oct. 2025\] I will join Department of Computer Science at Indiana University Indianapolis as tenure-track assistant professor in January 2026.
 
 \[July 2025\] One paper is accepted by ACM MobiHoc 2025.
 
